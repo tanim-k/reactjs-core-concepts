@@ -38,8 +38,16 @@
 }
 .container{
   color: rebeccapurple;
-  background-color: lightgoldenrodyellow;
+  background-color: rgb(228, 228, 92);
   padding: 20px;
   border-radius: 20px;
+  margin: 5px;
   
+}
+.person{
+  background-color: #0d1b38;
+  color: rgb(250, 214, 169);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
 }
